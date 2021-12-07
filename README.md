@@ -114,10 +114,10 @@ wait...⏳
 
 >>> loading programming languages
 
-**Php**
+************Php*************
 [------------------------->] (ok!)
 
-Python
+*Python
 [------------------------->] (ok!)
 
 C#
