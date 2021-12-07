@@ -114,7 +114,7 @@ Main achievements :
 }
 ```
 
-## skills 💻
+## Skills 💻
 
 ```bash
 admin@rerouj:~ $ run tech/skills.sh
