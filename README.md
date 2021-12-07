@@ -24,7 +24,10 @@ Recently graduated from a master in digital humanities, I've started to work in 
   "tasks" : [
     "Software programming (Laravel, Vue.js)", 
     "Softwares and databases admin", 
-    "IT support"
+    "IT support",
+    "Project managment",
+    "Continous improvment"
+    
    ]
 }
 ```
@@ -33,7 +36,7 @@ Main achievements :
 
 - Rebuild human resources database and frontend software
 - Build administrative web service for handle exams organisation
-- Business analysis
+
 
 ### Junior developer (internship)
 
