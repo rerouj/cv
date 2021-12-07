@@ -108,9 +108,9 @@ Main achievements :
 ## skills
 
 ```bash
-admin@rerouj:~ $ run skills.sh
+admin@rerouj:~ $ run tech/skills.sh
 
-wait...
+wait...⏳
 
 loading programming languages
 
@@ -145,7 +145,7 @@ Others cool stuffs ?
 Docker
 [------------------------->] (ok!)
 
-ssh
+bash
 [------------------------->] (ok!)
 
 ```
