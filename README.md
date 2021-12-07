@@ -75,26 +75,6 @@ Main achievements :
 - OOP workshops exercices writing/validation
 - Software development sutdent's project help and supervision.
 
-### Academic assistant
-
-```json
-{
-  "company": "Université de Lausanne (Unil)",
-  "started": 2019,
-  "ended" : 2019,
-  "tasks" : [
-    "OOP class assistant", 
-    "student assistant", 
-    "workshop assistant"
-   ]
-}
-```
-
-Main achievements :
-
-- OOP workshops exercices writing/validation
-- Software development sutdent's project help and supervision.
-
 ## Education 👨‍🎓
 ### Master of Arts in Digital Humanities and History
 
