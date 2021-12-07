@@ -13,7 +13,7 @@ Recently graduated from a master in digital humanities, I've started to work in 
   - renato.diaz@outlook.com
   - https://www.linkedin.com/in/renato-diaz-690b13148/
 
-## Professional path
+## Recent and fresh Professional footprints 👨‍💻
 ### Applications and databases owner
 
 ```json
@@ -31,20 +31,77 @@ Main achievements :
 - Build administrative web service for handle exams organisation
 - Business analysis
 
-### Junior developer (internship)                                                            ![image](https://user-images.githubusercontent.com/32023737/145110604-f01cb894-bcb0-4847-aca5-b81c42a6e2a9.png)
+### Junior developer (internship)
 
 
 ```json
 {
-  "company": "Université de Lausanne (Unil)",
-  "from": "12/01/2020",
-  "to" : "None",
-  "tasks" : ["Software programming (Laravel, Vue.js)", "Softwares and databases admin", "IT support"]
+  "company": "Union Chimique Belge (UCB - Farchim)",
+  "from": "2019",
+  "to" : "2020",
+  "tasks" : ["Software programming (C#, vb.net)"]
 }
 ```
 
 Main achievements :
 
-- Rebuild human resources database and frontend software
-- Build administrative web service for handle exams organisation
-- Business analysis
+- Build a software for computing co-activities and for risk management.
+- Build a web service for handling external worker plant entrance subscription.
+
+### Academic assistant
+
+
+```json
+{
+  "company": "Université de Lausanne (Unil)",
+  "from": "2019",
+  "to" : "2019",
+  "tasks" : ["OOP class assistant, student assistant, workshop assistant"]
+}
+```
+
+Main achievements :
+
+- OOP workshops exercices writing/validation
+- Software development sutdent's project help and supervision.
+
+### Academic assistant
+
+```json
+{
+  "company": "Université de Lausanne (Unil)",
+  "from": "2019",
+  "to" : "2019",
+  "tasks" : ["OOP class assistant, student assistant, workshop assistant"]
+}
+```
+
+Main achievements :
+
+- OOP workshops exercices writing/validation
+- Software development sutdent's project help and supervision.
+
+## Education 👨‍🎓
+# Master of Arts in Digital Humanities and History
+
+```json
+{
+  "company": "Université de Lausanne (Unil)",
+  "started": "2017",
+  "ended" : "2020",
+  "department" : ["Arts and Social Sciences department"]
+  "Diploma" : true
+}
+```
+
+# Bachelor of Arts in History and Philosophy
+
+```json
+{
+  "company": "Université de Lausanne (Unil)",
+  "started": "2017",
+  "ended" : "2020",
+  "department" : ["Arts and Social Sciences department"],
+  "Diploma" : true
+}
+```
