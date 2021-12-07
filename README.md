@@ -112,9 +112,9 @@ admin@rerouj:~ $ run tech/skills.sh
 
 wait...⏳
 
-loading programming languages
+>>> loading programming languages
 
-Php
+**Php**
 [------------------------->] (ok!)
 
 Python
@@ -126,7 +126,7 @@ C#
 Javascript
 [------------------------->] (ok!)
 
-loading frameworks
+>>> loading frameworks
 
 Laravel
 [------------------------->] (ok!)
@@ -140,7 +140,7 @@ Vue.js
 React.js
 [------------------------->] (ok!)
 
-Others cool stuffs ?
+>>> Others cool stuffs ?
 
 Docker
 [------------------------->] (ok!)
