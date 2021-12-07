@@ -22,8 +22,8 @@ Recently graduated from a master in digital humanities, I've started to work in 
 {
   "job": "Applications and databases owner",
   "company": "Université de Lausanne (Unil)",
-  "from": dec 2020,
-  "to" : null
+  "from": "dec 2020",
+  "to" : None
 }
 ```
 
