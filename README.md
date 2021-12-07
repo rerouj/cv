@@ -21,7 +21,11 @@ Recently graduated from a master in digital humanities, I've started to work in 
   "company": "Université de Lausanne (Unil)",
   "from": "12/01/2020",
   "to" : "None",
-  "tasks" : ["Software programming (Laravel, Vue.js)", "Softwares and databases admin", "IT support"]
+  "tasks" : [
+    "Software programming (Laravel, Vue.js)", 
+    "Softwares and databases admin", 
+    "IT support"
+   ]
 }
 ```
 
@@ -37,8 +41,8 @@ Main achievements :
 ```json
 {
   "company": "Union Chimique Belge (UCB - Farchim)",
-  "from": 2019,
-  "to" : 2020,
+  "started": 2019,
+  "ended" : 2020,
   "tasks" : ["Software programming (C#, vb.net)"]
 }
 ```
@@ -54,8 +58,8 @@ Main achievements :
 ```json
 {
   "company": "Université de Lausanne (Unil)",
-  "from": "2019",
-  "to" : "2019",
+  "started": "2019",
+  "ended" : "2019",
   "tasks" : [
     "Python OOP class assistant", 
     "student assistant", 
@@ -74,8 +78,8 @@ Main achievements :
 ```json
 {
   "company": "Université de Lausanne (Unil)",
-  "from": "2019",
-  "to" : "2019",
+  "started": "2019",
+  "ended" : "2019",
   "tasks" : ["OOP class assistant, student assistant, workshop assistant"]
 }
 ```
@@ -103,8 +107,8 @@ Main achievements :
 ```json
 {
   "company": "Université de Lausanne (Unil)",
-  "started": "2017",
-  "ended" : "2020",
+  "started": "2012",
+  "ended" : "2017",
   "department" : ["Arts and Social Sciences department"],
   "Diploma" : true
 }
