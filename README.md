@@ -37,8 +37,8 @@ Main achievements :
 ```json
 {
   "company": "Union Chimique Belge (UCB - Farchim)",
-  "from": "2019",
-  "to" : "2020",
+  "from": 2019,
+  "to" : 2020,
   "tasks" : ["Software programming (C#, vb.net)"]
 }
 ```
@@ -56,7 +56,11 @@ Main achievements :
   "company": "Université de Lausanne (Unil)",
   "from": "2019",
   "to" : "2019",
-  "tasks" : ["Python OOP class assistant, student assistant, workshop assistant"]
+  "tasks" : [
+    "Python OOP class assistant", 
+    "student assistant", 
+    "workshop assistant"
+   ]
 }
 ```
 
