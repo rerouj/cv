@@ -123,7 +123,7 @@ wait...⏳
 + C#
 [**************************] (ok!)
 
-Javascript
++ Javascript
 [**************************] (ok!)
 
 >>> loading frameworks
