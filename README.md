@@ -15,8 +15,8 @@ Recently graduated from a master in digital humanities, I've started to work in 
 
 # Professional path
 
-### Applications and databases owner. 
-Université de Lausanne (Unil)
+### Applications and databases owner
+> Université de Lausanne (Unil)
 
 Softwares and databases admin. Application programming (Laravel, Vue.js). It support.
 
