@@ -105,7 +105,47 @@ Main achievements :
   "Diploma" : true
 }
 ```
+## skills
 
 ```bash
-rerouj -> ~ >>> run Python
+admin@rerouj:~ $ run skills.sh
+
+wait...
+
+loading programming languages
+
+Php
+[------------------------->] (ok!)
+
+Python
+[------------------------->] (ok!)
+
+C#
+[------------------------->] (ok!)
+
+Javascript
+[------------------------->] (ok!)
+
+loading frameworks
+
+Laravel
+[------------------------->] (ok!)
+
+Express.js
+[------------------------->] (ok!)
+
+Vue.js
+[------------------------->] (ok!)
+
+React.js
+[------------------------->] (ok!)
+
+Others cool stuffs ?
+
+Docker
+[------------------------->] (ok!)
+
+ssh
+[------------------------->] (ok!)
+
 ```
