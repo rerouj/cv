@@ -30,3 +30,21 @@ Main achievements :
 - Rebuild human resources database and frontend software
 - Build administrative web service for handle exams organisation
 - Business analysis
+
+### Junior developer (internship)                                                            ![image](https://user-images.githubusercontent.com/32023737/145110604-f01cb894-bcb0-4847-aca5-b81c42a6e2a9.png)
+
+
+```json
+{
+  "company": "Université de Lausanne (Unil)",
+  "from": "12/01/2020",
+  "to" : "None",
+  "tasks" : ["Software programming (Laravel, Vue.js)", "Softwares and databases admin", "IT support"]
+}
+```
+
+Main achievements :
+
+- Rebuild human resources database and frontend software
+- Build administrative web service for handle exams organisation
+- Business analysis
