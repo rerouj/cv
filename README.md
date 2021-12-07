@@ -56,7 +56,7 @@ Main achievements :
   "company": "Université de Lausanne (Unil)",
   "from": "2019",
   "to" : "2019",
-  "tasks" : ["OOP class assistant, student assistant, workshop assistant"]
+  "tasks" : ["Python OOP class assistant, student assistant, workshop assistant"]
 }
 ```
 
@@ -104,4 +104,8 @@ Main achievements :
   "department" : ["Arts and Social Sciences department"],
   "Diploma" : true
 }
+```
+
+```bash
+rerouj -> ~ >>> run Python
 ```
