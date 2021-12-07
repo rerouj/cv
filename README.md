@@ -105,6 +105,7 @@ Main achievements :
   "Diploma" : true
 }
 ```
+
 ## skills 💻
 
 ```bash
@@ -140,7 +141,7 @@ Vue.js
 React.js
 [**************************] (ok!)
 
->>> Others cool stuffs ?
+>>> Other cool stuffs ?
 
 Docker
 [**************************] (ok!)
