@@ -2,7 +2,7 @@
 
 Dear recruiters,
 
-Please find below my updated cv with all the details about my professional situation. Word files are boring: cvs need many updates and sometimes it's hard to keep control over the numerous file versions produced for the recruiters. With Github that's possible so this is where I will push my professional updates from now on.
+Please find below my updated cv with all the details about my professional situation. Word files are boring: cvs need many updates and sometimes it's hard to keep control over the numerous file versions produced for the recruiters. With Github that's possible so this is where I will "push" my professional updates from now on.
 
 ### About me
 
