@@ -21,11 +21,10 @@ Recently graduated from a master in digital humanities, I've started to work in 
 {
   "company": "Université de Lausanne (Unil)",
   "from": "12/01/2020",
-  "to" : "None"
+  "to" : "None",
+  "description" : "Software programming (Laravel, Vue.js). Softwares and databases admin. IT support."
 }
 ```
-
-Softwares and databases admin. Application programming (Laravel, Vue.js). It support.
 
 Main achievements :
 
