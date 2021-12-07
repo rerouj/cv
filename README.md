@@ -105,7 +105,7 @@ Main achievements :
   "Diploma" : true
 }
 ```
-## skills
+## skills 💻
 
 ```bash
 admin@rerouj:~ $ run tech/skills.sh
