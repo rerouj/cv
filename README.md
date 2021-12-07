@@ -8,7 +8,7 @@ Please find below my updated cv with all the details about my professional situa
 
 Recently graduated from a master in digital humanities, I've started to work in the digital indutry at the end of 2019. My main goal is to keep learning and evolve in the industry as a devoloper to the level of senior by the end of 2023. In my daily work, two things matters : results and values.
 
-### Find me !
+### Find me
 
   - renato.diaz@outlook.com
   - https://www.linkedin.com/in/renato-diaz-690b13148/
