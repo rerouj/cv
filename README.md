@@ -82,7 +82,7 @@ Main achievements :
 - Software development sutdent's project help and supervision.
 
 ## Education 👨‍🎓
-# Master of Arts in Digital Humanities and History
+### Master of Arts in Digital Humanities and History
 
 ```json
 {
@@ -94,7 +94,7 @@ Main achievements :
 }
 ```
 
-# Bachelor of Arts in History and Philosophy
+### Bachelor of Arts in History and Philosophy
 
 ```json
 {
