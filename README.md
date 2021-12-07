@@ -82,7 +82,11 @@ Main achievements :
   "company": "Université de Lausanne (Unil)",
   "started": 2019,
   "ended" : 2019,
-  "tasks" : ["OOP class assistant, student assistant, workshop assistant"]
+  "tasks" : [
+    "OOP class assistant", 
+    "student assistant", 
+    "workshop assistant"
+   ]
 }
 ```
 
