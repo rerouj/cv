@@ -13,8 +13,8 @@ Recently graduated from a master in digital humanities, I've started to work in 
   - renato.diaz@outlook.com
   - https://www.linkedin.com/in/renato-diaz-690b13148/
 
-# Professional path
-
+## Professional path
+---
 ### Applications and databases owner
 
 ```json
