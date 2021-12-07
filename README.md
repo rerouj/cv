@@ -58,8 +58,8 @@ Main achievements :
 ```json
 {
   "company": "Université de Lausanne (Unil)",
-  "started": "2019",
-  "ended" : "2019",
+  "started": 2019,
+  "ended" : 2019,
   "tasks" : [
     "Python OOP class assistant", 
     "student assistant", 
@@ -78,8 +78,8 @@ Main achievements :
 ```json
 {
   "company": "Université de Lausanne (Unil)",
-  "started": "2019",
-  "ended" : "2019",
+  "started": 2019,
+  "ended" : 2019,
   "tasks" : ["OOP class assistant, student assistant, workshop assistant"]
 }
 ```
@@ -95,8 +95,8 @@ Main achievements :
 ```json
 {
   "company": "Université de Lausanne (Unil)",
-  "started": "2017",
-  "ended" : "2020",
+  "started": 2017,
+  "ended" : 2020,
   "department" : ["Arts and Social Sciences department"]
   "Diploma" : true
 }
@@ -107,8 +107,8 @@ Main achievements :
 ```json
 {
   "company": "Université de Lausanne (Unil)",
-  "started": "2012",
-  "ended" : "2017",
+  "started": 2012,
+  "ended" : 2017,
   "department" : ["Arts and Social Sciences department"],
   "Diploma" : true
 }
@@ -156,5 +156,8 @@ Docker
 
 bash
 [**************************] (ok!)
+
+Google search blackbelt 🥋
+[**************************] (hell yhea!)
 
 ```
