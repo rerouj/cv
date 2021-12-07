@@ -27,7 +27,6 @@ Recently graduated from a master in digital humanities, I've started to work in 
     "IT support",
     "Project managment",
     "Continous improvment"
-    
    ]
 }
 ```
