@@ -19,8 +19,8 @@ Recently graduated from a master in digital humanities, I've started to work in 
 ```json
 {
   "company": "Université de Lausanne (Unil)",
-  "from": "12/01/2020",
-  "to" : "None",
+  "started": "12/01/2020",
+  "ended" : none,
   "tasks" : [
     "Software programming (Laravel, Vue.js)", 
     "Softwares and databases admin", 
