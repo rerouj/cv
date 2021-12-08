@@ -22,7 +22,7 @@ Recently graduated from a master in digital humanities, I've started to work in 
   "started": "12/01/2020",
   "ended" : "",
   "tasks" : [
-    "Software programming (Laravel, Vue.js)", 
+    "Software programming (Laravel, Vue.js, Python)", 
     "Softwares and databases admin", 
     "IT support",
     "Project managment",
