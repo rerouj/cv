@@ -14,13 +14,33 @@ Recently graduated from a master in digital humanities, I've started to work in 
   - https://www.linkedin.com/in/renato-diaz-690b13148/
 
 ## Professional path 👨‍💻
+
+### Project lead
+
+```json
+{
+  "company": "Université de Lausanne (Unil)",
+  "divison": "Theology and Religion's Sciences",
+  "started": "06/01/2020",
+  "ended" : "",
+  "tasks" : [
+    "Teach lead",
+    "Project managment",
+    "Software programming", 
+    "Softwares and databases admin", 
+    "Continous improvment"
+   ]
+}
+```
+
 ### Applications and databases owner
 
 ```json
 {
   "company": "Université de Lausanne (Unil)",
+  "divison": "Social Sciences and Politics",
   "started": "12/01/2020",
-  "ended" : "",
+  "ended" : "05/30/2022",
   "tasks" : [
     "Software programming (Laravel, Vue.js, Python)", 
     "Softwares and databases admin", 
