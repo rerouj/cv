@@ -15,7 +15,7 @@ Recently graduated from a master in digital humanities, I've started to work in 
 
 ## Professional path 👨‍💻
 
-### Project lead
+### Project manager
 
 ```json
 {
